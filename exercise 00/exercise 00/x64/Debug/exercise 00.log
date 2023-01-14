@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c语言code\exercise 00\exercise 00\test.c(39,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\c语言code\exercise 00\exercise 00\test.c(40,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  exercise 00.vcxproj -> D:\c语言code\exercise 00\x64\Debug\exercise 00.exe
